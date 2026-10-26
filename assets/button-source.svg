@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="58" viewBox="0 0 200 58" role="img" aria-labelledby="title">
-  <title id="title">Patchbay source code</title>
-  <rect x="1" y="1" width="198" height="56" rx="28" fill="#0C0A09" stroke="#2A2420" stroke-width="2"/>
-  <text x="28" y="36" fill="#CFC1B3" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700" letter-spacing="2">SOURCE</text>
-  <path d="M154 29 h18 m-6 -6 6 6 -6 6" fill="none" stroke="#FFB96D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

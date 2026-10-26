@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">7portside — local-first tools for the AI stack</title>
-  <desc id="desc">A black editorial banner with bone type, orange signal accents and a patchbay routing diagram.</desc>
+  <title id="title">7portside — frontend, backend, environment and CI/CD</title>
+  <desc id="desc">A black editorial banner with bone type, orange accents and a patchbay routing diagram.</desc>
   <defs>
     <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
       <circle cx="1" cy="1" r="1" fill="#171717"/>
@@ -12,22 +12,24 @@
   <rect x="1" y="1" width="1278" height="358" fill="none" stroke="#2A2420" stroke-width="2"/>
   <rect x="0" y="0" width="1280" height="2" fill="#FFB96D"/>
 
-  <text x="64" y="58" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="3">7PORTSIDE / SIGNAL ROUTER</text>
-  <text x="1216" y="58" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="3" text-anchor="end">LOCAL-FIRST / 2026</text>
+  <text x="64" y="58" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="3">7PORTSIDE / ENGINEERING</text>
+  <text x="1216" y="58" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="3" text-anchor="end">FULL PATH / 2026</text>
 
   <text x="62" y="192" fill="#CFC1B3" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="800" letter-spacing="-5">7PORT<tspan fill="#FFB96D">SIDE</tspan></text>
 
-  <text x="66" y="240" fill="#FFB96D" font-family="Consolas, 'Courier New', monospace" font-size="19" letter-spacing="2.5">CONTROL SURFACES FOR THE LOCAL AI STACK.</text>
-  <text x="66" y="272" fill="#CFC1B3" fill-opacity="0.55" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2">TAURI 2 / RUST / REACT / BUN / WINDOWS x64</text>
+  <text x="66" y="240" fill="#FFB96D" font-family="Consolas, 'Courier New', monospace" font-size="21" letter-spacing="2.5">FROM INTERFACE TO PIPELINE.</text>
+  <text x="66" y="272" fill="#CFC1B3" fill-opacity="0.55" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2">REACT / TYPESCRIPT / RUST / BUN / POWERSHELL / GIT</text>
 
-  <line x1="66" y1="300" x2="540" y2="300" stroke="#2A2420" stroke-width="1"/>
-  <text x="66" y="326" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">01 — BUILDING PATCHBAY</text>
-  <text x="300" y="326" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">02 — LOOPBACK ONLY</text>
+  <line x1="66" y1="300" x2="760" y2="300" stroke="#2A2420" stroke-width="1"/>
+  <text x="66" y="326" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">01 — FRONTEND</text>
+  <text x="236" y="326" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">02 — BACKEND</text>
+  <text x="406" y="326" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">03 — ENVIRONMENT</text>
+  <text x="626" y="326" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">04 — CI/CD</text>
 
   <line x1="960" y1="48" x2="960" y2="312" stroke="#2A2420" stroke-width="1"/>
-  <text x="988" y="72" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">PATCH / 01</text>
+  <text x="988" y="72" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">PATCH / FULL PATH</text>
   <text x="988" y="98" fill="#CFC1B3" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2">SIGNAL</text>
-  <text x="1216" y="98" fill="#CFC1B3" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" text-anchor="end">ROUTE</text>
+  <text x="1216" y="98" fill="#CFC1B3" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" text-anchor="end">SHIP</text>
 
   <text x="1010" y="118" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="1" text-anchor="middle">IN</text>
   <text x="1210" y="118" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="1" text-anchor="middle">OUT</text>
@@ -53,5 +55,5 @@
 
   <rect x="1000" y="304" width="216" height="28" rx="14" fill="#0C0A09" stroke="#2A2420"/>
   <circle cx="1018" cy="318" r="4" fill="#FFB96D"/>
-  <text x="1032" y="322" fill="#CFC1B3" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="2">BUILDING / 0.2.0</text>
+  <text x="1032" y="322" fill="#CFC1B3" font-family="Consolas, 'Courier New', monospace" font-size="9" letter-spacing="2">BUILDING / SHIPPING</text>
 </svg>

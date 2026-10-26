@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">7portside avatar</title>
+  <desc id="desc">A geometric bone and orange 7 on a black dot grid inside a circular patchbay ring.</desc>
+  <defs>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#171717"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="44%" r="62%">
+      <stop offset="0" stop-color="#0C0A09"/>
+      <stop offset="0.62" stop-color="#050403"/>
+      <stop offset="1" stop-color="#000000"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="#000000"/>
+  <rect width="1024" height="1024" fill="url(#glow)"/>
+  <rect width="1024" height="1024" fill="url(#dots)" opacity="0.9"/>
+
+  <circle cx="512" cy="512" r="440" fill="none" stroke="#2A2420" stroke-width="3"/>
+  <circle cx="512" cy="512" r="370" fill="none" stroke="#1A1613" stroke-width="1"/>
+
+  <path d="M 512 72 A 440 440 0 0 1 952 512" fill="none" stroke="#FFB96D" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 512 952 A 440 440 0 0 1 72 512" fill="none" stroke="#CFC1B3" stroke-width="2" stroke-linecap="round" opacity="0.25"/>
+
+  <circle cx="512" cy="72" r="7" fill="#000000" stroke="#FFB96D" stroke-width="3"/>
+  <circle cx="952" cy="512" r="7" fill="#000000" stroke="#FFB96D" stroke-width="3"/>
+  <circle cx="512" cy="952" r="6" fill="#000000" stroke="#CFC1B3" stroke-width="2"/>
+  <circle cx="72" cy="512" r="6" fill="#000000" stroke="#CFC1B3" stroke-width="2"/>
+
+  <text x="512" y="158" fill="#8F8175" font-family="Consolas, 'Courier New', monospace" font-size="23" letter-spacing="10" text-anchor="middle">7PORTSIDE</text>
+
+  <rect x="286" y="300" width="452" height="76" fill="#FFB96D"/>
+  <polygon points="620,376 726,376 500,768 356,768" fill="#CFC1B3"/>
+
+  <line x1="740" y1="338" x2="786" y2="338" stroke="#FFB96D" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="802" cy="338" r="12" fill="#000000" stroke="#FFB96D" stroke-width="3"/>
+  <circle cx="802" cy="338" r="4" fill="#FFB96D"/>
+
+  <text x="512" y="902" fill="#FFB96D" font-family="Consolas, 'Courier New', monospace" font-size="18" letter-spacing="4" text-anchor="middle">FRONTEND / BACKEND / ENV / CI</text>
+</svg>
